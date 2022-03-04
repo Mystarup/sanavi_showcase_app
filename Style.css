@@ -1,0 +1,39 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:300;
+    color:blueviolet;
+}
+#Apps{
+    background-color: chartreuse;
+}
+#Games{
+    background-color: aqua;
+}
+#Chatbot{
+    background-color: gold;
+}
+.line{
+    height:6px;
+    background-color: purple;
+    width:1400px;
+    margin:8px auto;
+}
+#myCarousel{
+    background-color: aquamarine;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color: darkblue;
+    font-size: 20px;
+}
+.container{
+    background-color:indianred;
+}
